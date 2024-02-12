@@ -62,6 +62,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact Us
 
-If you have any questions or need assistance, feel free to contact us at contact@carrentalservice.com.
+If you have any questions or need assistance, feel free to contact us at hort19345@gmail.com.
 
 Thank you for considering the Car Rental Service. We look forward to your participation and hope this service will empower car rental businesses to thrive in the digital age.
